@@ -1,0 +1,31 @@
+.navbar-default{
+    background-color: grey;
+}
+
+.navbar-brand p{
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+}
+
+.menu,p{
+    background-color: grey;
+    color: black;
+
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:2em;
+    color: black;
+}
